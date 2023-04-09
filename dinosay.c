@@ -15,6 +15,10 @@ int main(int argc, char **argv) {
 			printf("DINOSAY!\nWrite anything after typing dinosay and it will print that for you :)\nLike - \ndinosay \"Hi, I am a dinosaur\"\n");
 			return 0;
 		}
+		else if (strcmp(*(argv+1), "--about") == 0) {
+			printf("This Code and Repository was developed by Sherry65-code\nThanks to Peter Weighill for the ASCII Dinosaur from asciiart.eu\n");
+			return 0;
+		}
 	}
 	
 	char *dino[] = {
