@@ -1,1 +1,21 @@
-# dinosay
+# DinoSay
+
+- Just like cowsay
+
+- How to install
+
+    Copy paste this in your terminal
+    
+    ```bash
+git clone https://github.com/Sherry65-code/cowsay
+cd cowsay
+chmod a+x ./install.sh
+./install.sh
+    ```
+
+- To run dinosay just type - 
+
+```bash
+dinosay <Whatever>
+```
+
