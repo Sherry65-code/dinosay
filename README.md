@@ -7,8 +7,8 @@
     Copy paste this in your terminal
     
     ```bash
-    git clone https://github.com/Sherry65-code/cowsay
-    cd cowsay
+    git clone https://github.com/Sherry65-code/dinosay
+    cd dinosay
     chmod a+x ./install.sh
     ./install.sh
     ```
